@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://simplerecipes.now.sh/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Simple Recipes"
 theme = "ananke"
