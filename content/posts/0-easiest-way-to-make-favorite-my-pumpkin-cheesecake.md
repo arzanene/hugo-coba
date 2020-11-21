@@ -3,7 +3,7 @@ description: "Easiest Way to Make Favorite My Pumpkin Cheesecake🎃"
 title: "Easiest Way to Make Favorite My Pumpkin Cheesecake🎃"
 slug: 0-easiest-way-to-make-favorite-my-pumpkin-cheesecake
 date: 2020-08-22T15:46:38.843Z
-image: https://img-global.cpcdn.com/recipes/04b541a23b3e06e1/751x532cq70/my-pumpkin-cheesecake🎃-recipe-main-photo.jpg
+featured_image: https://img-global.cpcdn.com/recipes/04b541a23b3e06e1/751x532cq70/my-pumpkin-cheesecake🎃-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/04b541a23b3e06e1/751x532cq70/my-pumpkin-cheesecake🎃-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/04b541a23b3e06e1/751x532cq70/my-pumpkin-cheesecake🎃-recipe-main-photo.jpg
 author: Ray Torres
